@@ -1,5 +1,3 @@
-下面是一版可直接放进你项目里的 **`README.md` 英文版**。
-
 ````md
 # Chinese Sentiment Analysis with Hugging Face
 
